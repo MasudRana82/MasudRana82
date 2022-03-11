@@ -1,6 +1,6 @@
 ### Hi there, I'm Masud Rana 👋
 
-## I'm a full stack Laravel Developer!!
+## I'm a Full Stack Laravel Developer!!
 
 
 - 🔭 I’m currently working on Laravel
