@@ -1,9 +1,9 @@
 ### Hi there, I'm Masud Rana 👋
 
-## I'm a Full time Freelance Softwire Engineer!!
+## I'm a  Software Engineer!!
 
 
-- 🔭 I’m currently working on Php , Laravel.
+- 🔭 I’m Expert in  PHP,Laravel.
 - 🌱 I’m currently learning VUE.JS.
 - 💬 Ask me about tech related question
 - 📫 How to reach me: <a href="facebook.com/md.r.masudrana.3/">FaceBook</a>
