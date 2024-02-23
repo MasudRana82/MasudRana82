@@ -1,16 +1,16 @@
 <!--
 <p align="center">
 <img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-<img src="https://user-images.githubusercontent.com/61485238/191235891-c55aed06-3675-472c-b3c5-736bdad41126.jpg" alt="alnahian2003_cover">
+<img src="https://user-images.githubusercontent.com/61485238/191235891-c55aed06-3675-472c-b3c5-736bdad41126.jpg" alt="masudrana82_cover">
 </p>
 -->
 
 ![Cover](https://i.imgur.com/CIL4qZ1.png)
+
 <h1 align="center">Howdy 👋, I'm Masud Rana! </h1>
 <p align="center">
 🔥 I'm a passionate Freelance FullStack Developer based in <span><img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="16"></span> Bangladesh and learning new things everyday.
 </p>
-
 
 <h3 align="center">⚡ Skills I Possess</h3>
 
@@ -40,40 +40,35 @@
 <p align="center">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="60" height="60"/> </a>
 <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original-wordmark.svg" alt="phpstorm" width="60" height="60"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="60" height="60"/> </a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="60" height="60"/> </a>
-<a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="60" height="60"/> </a>
+
 </p>
 
 <br>
   
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alnahian2003&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true" alt="Masud Rana&#39;s GitHub stats" width="600"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=masudrana82&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true" alt="Masud Rana&#39;s GitHub stats" width="600"></p>
 </p>
 
 <p align="center">
-  <a href="https://facebook.com/alnahian2003" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/alnahian2003" height="28">
+  <a href="https://facebook.com/masudrana82" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/masudrana82" height="28">
   </a>
   
-  <a href="https://twitter.com/alnahian2003" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alnahian2003" height="28">
+  <a href="https://twitter.com/masudrana82" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/masudrana82" height="28">
   </a>
-  <a href="https://behance.net/alnahian2003" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/alnahian2003" height="28">
+  <a href="https://behance.net/masudrana82" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/masudrana82" height="28">
   </>
-  <a href="mailto:a.alnahian2003@gmail.com?subject=Hello Dear Masud Rana! I send this message from your Github Profile. I need to talk to you!" target="_blank">
-    <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a.alnahian2003@gmail.com" height="28">
+  <a href="mailto:a.masudrana82@gmail.com?subject=Hello Dear Masud Rana! I send this message from your Github Profile. I need to talk to you!" target="_blank">
+    <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a.masudrana82@gmail.com" height="28">
   </a>
-  <a href="https://github.com/alnahian2003" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/alnahian2003?label=Github&style=flat" height="28">
+  <a href="https://github.com/masudrana82" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/masudrana82?label=Github&style=flat" height="28">
   </a>
-  <a href="https://github.com/alnahian2003" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=alnahian2003&label=Views&color=brightgreen&style=flat" alt="alnahian2003" height="28" />
+  <a href="https://github.com/masudrana82" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=masudrana82&label=Views&color=brightgreen&style=flat" alt="masudrana82" height="28" />
   </a>
-  <a href="https://alnahian2003.github.io" target="_blank">
+  <a href="https://masudrana82.github.io" target="_blank">
     <img alt="Visit Portfolio" src="https://img.shields.io/badge/Visit-Portfolio-brightgreen&style=flat" height="28">
   </a>
 </p>
