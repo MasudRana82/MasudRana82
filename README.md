@@ -45,8 +45,9 @@
 
 <br>
  
-<p align="center"><img src="[https://github-readme-stats.vercel.app/api?username=alnahian2003&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true" alt="Masud Rana&#39;s GitHub stats](https://github-readme-stats.vercel.app/api?username=masudrana82)](https://github.com/anuraghazra/github-readme-stats)" width="600"></p>
-</p>
+
+[![Masud's GitHub stats](https://github-readme-stats.vercel.app/api?username=masudrana82)](https://github.com/anuraghazra/github-readme-stats)
+   
 
 <p align="center">
   <a href="https://facebook.com/masudrana82" target="_blank">
