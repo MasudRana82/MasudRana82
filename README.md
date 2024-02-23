@@ -5,7 +5,7 @@
 </p>
 -->
 
-![Cover]([https://github.com/alnahian2003/alnahian2003/assets/61485238/4fe0e2e6-f4e4-4f86-b4e1-2a293e61d55c](https://github.com/MasudRana82/my-portfolio/blob/main/images/Graphic%20Designer%20Online%20Portfolio.png))
+![Cover]([https://github.com/alnahian2003/alnahian2003/assets/61485238/4fe0e2e6-f4e4-4f86-b4e1-2a293e61d55c](https://github.com/MasudRana82/my-portfolio/blob/main/images/Graphic%20Designer%20Online%20Portfolio.png)
 
 <h1 align="center">Howdy 👋, I'm Masud Rana! </h1>
 <p align="center">
