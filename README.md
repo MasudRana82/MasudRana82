@@ -5,7 +5,7 @@
 </p>
 -->
 
-![Cover](https://i.imgur.com/CIL4qZ1.png)
+![Cover]([https://i.imgur.com/CIL4qZ1.png](https://i.imgur.com/KrHTr6s.png))
 
 <h1 align="center">Howdy 👋, I'm Masud Rana! </h1>
 <p align="center">
