@@ -1,67 +1,54 @@
-<!--
-<p align="center">
-<img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-<img src="https://user-images.githubusercontent.com/61485238/191235891-c55aed06-3675-472c-b3c5-736bdad41126.jpg" alt="masudrana82_cover">
-</p>
--->
+# Hi 
 
-![Cover](https://i.imgur.com/KrHTr6s.png)
+Entrepreneur & Software Developer specializing in web applications, modern frontend, and applied AI. I build reliable, maintainable products using PHP/Laravel, Vue.js, WordPress and integrate AI where it adds value.
 
-<h1 align="center">Howdy 👋, I'm Masud Rana! </h1>
-<p align="center">
-🔥 I'm a passionate Freelance FullStack Developer based in <span><img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="16"></span> Bangladesh and learning new things everyday.
-</p>
+---
 
-<h3 align="center">⚡ Skills I Possess</h3>
+### 🔎 About
 
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="60" height="60"/>
-</a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60"/> </a>
-</p>
+* 5+ years building production web apps and client solutions.
+* Owner at **Bitesoft Solution** — Web Development, Brand Design, and SEO.
+* Strong focus on clean architecture, performance, and pragmatic automation.
 
+---
 
-<br>
- 
+### 🛠️ Tech & Tools
 
-[![Masud's GitHub stats](https://github-readme-stats.vercel.app/api?username=masudrana82)](https://github.com/anuraghazra/github-readme-stats)
-   
+**Backend:** PHP, Laravel, REST APIs, MySQL
 
-<p align="center">
-  <a href="https://facebook.com/masudrana82" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/masudrana82" height="28">
-  </a>
-  
-  <a href="https://twitter.com/masudrana82" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/masudrana82" height="28">
-  </a>
-  <a href="https://behance.net/masudrana82" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/masudrana82" height="28">
-  </>
-  <a href="mailto:a.masudrana82@gmail.com?subject=Hello Dear Masud Rana! I send this message from your Github Profile. I need to talk to you!" target="_blank">
-    <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a.masudrana82@gmail.com" height="28">
-  </a>
-  <a href="https://github.com/masudrana82" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/masudrana82?label=Github&style=flat" height="28">
-  </a>
-  <a href="https://github.com/masudrana82" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=masudrana82&label=Views&color=brightgreen&style=flat" alt="masudrana82" height="28" />
-  </a>
-  <a href="https://masudrana82.github.io" target="_blank">
-    <img alt="Visit Portfolio" src="https://img.shields.io/badge/Visit-Portfolio-brightgreen&style=flat" height="28">
-  </a>
-</p>
+**Frontend:** Vue.js, Tailwind CSS, HTML5, CSS3
 
-<div align="center">
-<hr>
-<h3>Wanna Hear a Joke, Buddy? 😜</h3>
-<a href="https://github.com/ABSphreak/readme-jokes">
-<img src="https://readme-jokes.vercel.app/api?theme=blueberry" alt="Jokes Card" />
-</a>
-</div>
+**Platforms & CMS:** WordPress
+
+**Dev & Collaboration:** Git, GitHub, Docker, CI/CD
+
+**AI / Data:** OpenAI API, applied automation
+
+---
+
+### ⭐ Featured Projects
+
+* **Bitesoft Solution — Portfolio** — Full-stack agency site and demos. ([https://bitesoftsolution.com/](https://bitesoftsolution.com/))
+* **Sleek Assured Man & Van** — Removals & logistics site. ([https://sleekassuredmanandvan.co.uk/](https://sleekassuredmanandvan.co.uk/))
+* **AEL Tuition** — Educational site built with clean UI and CMS. ([https://www.aeltuition.co.uk/](https://www.aeltuition.co.uk/))
+* **Basavaraa (rental service)** — Ongoing product: [https://basa.bitesoftsolution.com/](https://basa.bitesoftsolution.com/)
+
+*(More demos in my portfolio: [http://vue.bitesoftsolution.com/](http://vue.bitesoftsolution.com/) , [https://ai.bitesoftsolution.com/](https://ai.bitesoftsolution.com/) )*
+
+---
+
+### 📌 Current focus
+
+* Building scalable Laravel backends and modular Vue frontends.
+* Integrating AI-driven features for automation and smarter UX.
+* Improving deployment pipelines and observability for client projects.
+
+---
+
+### 🙋‍♂️ Want to collaborate?
+
+Check my portfolio or send a message via the contact form on Bitesoft Solution. If you prefer GitHub-first: open an issue or DM me here.
+
+---
+
+Thanks for visiting — let’s build something useful.
