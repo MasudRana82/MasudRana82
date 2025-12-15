@@ -28,12 +28,10 @@ Entrepreneur & Software Developer specializing in web applications, modern front
 
 ### ⭐ Featured Projects
 
-* **Bitesoft Solution — Portfolio** — Full-stack agency site and demos. ([https://bitesoftsolution.com/](https://bitesoftsolution.com/))
+* **Bitesoft Solution — My agency. ([https://bitesoftsolution.com/](https://bitesoftsolution.com/))
 * **Sleek Assured Man & Van** — Removals & logistics site. ([https://sleekassuredmanandvan.co.uk/](https://sleekassuredmanandvan.co.uk/))
 * **AEL Tuition** — Educational site built with clean UI and CMS. ([https://www.aeltuition.co.uk/](https://www.aeltuition.co.uk/))
-* **Basavaraa (rental service)** — Ongoing product: [https://basa.bitesoftsolution.com/](https://basa.bitesoftsolution.com/)
 
-*(More demos in my portfolio: [http://vue.bitesoftsolution.com/](http://vue.bitesoftsolution.com/) , [https://ai.bitesoftsolution.com/](https://ai.bitesoftsolution.com/) )*
 
 ---
 
