@@ -1,36 +1,44 @@
-# Hi 
+# Hi, I’m Masud Rana 👋 | Full‑Stack Developer · Laravel · Vue.js · AI
 
-Entrepreneur & Software Developer specializing in web applications, modern frontend, and applied AI. I build reliable, maintainable products using PHP/Laravel, Vue.js, WordPress and integrate AI where it adds value.
-
----
-
-### 🔎 About
-
-* 5+ years building production web apps and client solutions.
-* Owner at **Bitesoft Solution** — Web Development, Brand Design, and SEO.
-* Strong focus on clean architecture, performance, and pragmatic automation.
+Entrepreneur & **Full‑Stack Software Developer** specializing in **Laravel, PHP, Vue.js, WordPress, and AI‑powered web applications**. I build fast, scalable, SEO‑friendly, and maintainable products for startups, agencies, and growing businesses.
 
 ---
 
-### 🛠️ Tech & Tools
+### 🔎 About Me
 
-**Backend:** PHP, Laravel, REST APIs, MySQL
+* Full‑Stack Web Developer with **5+ years of professional experience**.
+* Founder of **Bitesoft Solution**, delivering Web Development, Brand Design, and SEO services worldwide.
+* Experienced in building **business websites, SaaS platforms, landing pages, dashboards, and AI‑integrated systems**.
+* I focus on clean code, performance optimization, SEO best practices, and long‑term scalability.
 
-**Frontend:** Vue.js, Tailwind CSS, HTML5, CSS3
-
-**Platforms & CMS:** WordPress
-
-**Dev & Collaboration:** Git, GitHub, Docker, CI/CD
-
-**AI / Data:** OpenAI API, applied automation
+**Keywords:** Full‑Stack Developer, Laravel Developer, PHP Developer, Vue.js Developer, WordPress Expert, Web Developer Bangladesh, AI Web Developer
 
 ---
 
-### ⭐ Featured Projects
+### 🛠️ Tech Stack & Skills
 
-* **Bitesoft Solution — My agency. ([https://bitesoftsolution.com/](https://bitesoftsolution.com/))
-* **Sleek Assured Man & Van** — Removals & logistics site. ([https://sleekassuredmanandvan.co.uk/](https://sleekassuredmanandvan.co.uk/))
-* **AEL Tuition** — Educational site built with clean UI and CMS. ([https://www.aeltuition.co.uk/](https://www.aeltuition.co.uk/))
+**Backend Development:** PHP, Laravel, REST APIs, MySQL, MVC Architecture
+
+**Frontend Development:** Vue.js, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3
+
+**CMS & Platforms:** WordPress, Custom Themes & Plugins
+
+**DevOps & Tools:** Git, GitHub, Docker, CI/CD, Linux Servers
+
+**AI & Automation:** OpenAI API, AI chat systems, workflow automation
+
+**SEO & Performance:** Technical SEO, Core Web Vitals, Page Speed Optimization
+
+---
+
+### ⭐ Featured Projects & Portfolio
+
+* **Bitesoft Solution** — Software Development Agency.
+  [https://bitesoftsolution.com/](https://bitesoftsolution.com/)
+* **Sleek Assured Man & Van** — Logistics & removals business website.
+  [https://sleekassuredmanandvan.co.uk/](https://sleekassuredmanandvan.co.uk/)
+* **AEL Tuition** — Education platform with CMS and SEO optimization.
+  [https://www.aeltuition.co.uk/](https://www.aeltuition.co.uk/)
 
 
 ---
